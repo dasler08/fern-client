@@ -1,10 +1,11 @@
+<h1 align="center">FERN CLIENT</h1>
+<p align="center">
+  a little companion app for <b>Path of Titans</b>. <b>maps</b>, <b>quest routes</b> and a <b>map overlay</b> you can keep open while you play
+</p>
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ac1bfe77-05b3-4d2f-930c-ed0becf4efd7" />
-
-Fern Client
-a little companion app for Path of Titans. maps, quest routes and a map overlay you can keep open while you play
-
-Download the latest version
+<p align="center">
+  <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
+</p>
 
 <img width="1267" height="365" alt="image" src="https://github.com/user-attachments/assets/703d6032-614b-4bcd-af14-f84a6489b3d9" />
 
