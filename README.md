@@ -9,15 +9,16 @@
 
 <img width="1267" height="365" alt="image" src="https://github.com/user-attachments/assets/703d6032-614b-4bcd-af14-f84a6489b3d9" />
 
-what it does
-Play button that opens the Alderon Games Launcher for you
-Maps for Gondwa, Panjura and Riparia with over 21,000 resource spots, waystones, home caves and place names. you can drop your own pins too
-Quest run, you tell it what your quest needs (like 3 turtle shells and 2 berries), click where you are and it plans the shortest way to grab everything. hit Got it when you collect one and it moves you on to the next
-Map overlay that sits on top of the game and lets your clicks go straight through it. unlock it with a hotkey to move, resize and zoom it how you like
-Hotkeys to show or hide Fern, the overlay and overlay move mode without leaving the game
-Sound cues and small on screen notices so you know when something got turned on or off
-Themes, Forest Green, Pitch Black, Navy Blue, Soft Pink and Slate Grey
+## ✨ what it does
 
+| | |
+|---|---|
+|  **Maps** | **Gondwa**, **Panjura** and **Riparia** with over **21,000 resource spots**, waystones, home caves and place names. drop your own **pins** too |
+|  **Quest run** | tell it what your quest needs, click where you are and it plans the **shortest way** to grab everything |
+|  **Map overlay** | sits **on top of the game** and lets your clicks go straight through. unlock it to **move, resize and zoom** |
+|  **Hotkeys** | show or hide **Fern** and the overlay **without leaving the game** |
+|  **Sounds and notices** | a **soft click** and a small **on screen notice** when something turns on or off |
+|  **Themes** | **Forest Green**, **Pitch Black**, **Navy Blue**, **Soft Pink** and **Slate Grey** |
 <img width="1271" height="528" alt="image" src="https://github.com/user-attachments/assets/d33192f0-a84e-43ae-a469-b3f213250a30" />
 
 <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/ec0e7e91-8ea3-4407-b74f-624d860484ee" />
