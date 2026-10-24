@@ -1,89 +1,122 @@
 <p align="center">
-  <img src="screenshots/banner.png" alt="Fern, a little map and quest helper for Path of Titans" />
+  <img src="screenshots/banner.png" alt="Fern Client for Path of Titans" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-3fcf92?style=flat-square&labelColor=0d1714" alt="Version 1.1.0" />
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-3fcf92?style=flat-square&labelColor=0d1714&logo=windows&logoColor=white" alt="Windows 10 and 11" />
-  <img src="https://img.shields.io/badge/license-MIT-3fcf92?style=flat-square&labelColor=0d1714" alt="MIT license" />
+  <img src="https://img.shields.io/badge/version-1.2.0-3fcf92?style=flat-square&labelColor=0d0d0d" alt="Version 1.2.0" />
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-3fcf92?style=flat-square&labelColor=0d0d0d&logo=windows&logoColor=white" alt="Windows 10 and 11" />
+  <img src="https://img.shields.io/badge/license-MIT-3fcf92?style=flat-square&labelColor=0d0d0d" alt="MIT license" />
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>Download the latest version</b></a>
+  <a href="../../releases/latest"><b>Download</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://fernclient.neocities.org"><b>Website</b></a>
 </p>
 
 <br />
 
-Fern is a small app I made for **Path of Titans** because I was tired of alt tabbing to a browser every time I needed to find something. It keeps the maps, your quest route and your server's info in one place, and it can sit on top of the game while you play.
-
-It's free, it's open source, and it never touches the game.
+Fern is a client for **Path of Titans**. Maps, quest routes, an overlay and server tools, Fern has it all
 
 <br />
 
-## What it does
+## What's in it
 
 | | |
 |---|---|
-| <img src="screenshots/icons/map.svg" width="20" /> | **Maps** for Gondwa, Panjura and Riparia with over **21,000 resource spots**, waystones, home caves and place names. Drop your own pins too. |
-| <img src="screenshots/icons/route.svg" width="20" /> | **Quest run.** Add what your quest needs, click where you are, and Fern plans the **shortest route** to collect it all. |
-| <img src="screenshots/icons/overlay.svg" width="20" /> | **Map overlay** that stays on top of the game. Unlock it with a hotkey to move, resize and zoom it. |
-| <img src="screenshots/icons/server.svg" width="20" /> | **Servers.** Find community servers, add the ones you play on, and see their zones and events on your map. **New in 1.1** |
-| <img src="screenshots/icons/bell.svg" width="20" /> | **Reminders** before server events and a small notice for announcements. Only if you turn them on. |
-| <img src="screenshots/icons/keyboard.svg" width="20" /> | **Hotkeys** for everything, so you never have to leave the game. |
-| <img src="screenshots/icons/palette.svg" width="20" /> | **Themes.** Forest Green, Pitch Black, Navy Blue, Soft Pink and Slate Grey. |
+| <img src="screenshots/icons/map.svg" width="20" /> | **Maps** Fern supports Gondwa, Panjura and Riparia with 21,000+ resource spots |
+| <img src="screenshots/icons/route.svg" width="20" /> | **Quest run** Fern calculates quest routes for you |
+| <img src="screenshots/icons/overlay.svg" width="20" /> | **Overlay** Fern sits on top of the game while you play |
+| <img src="screenshots/icons/news.svg" width="20" /> | **News** Fern keeps you up to date with Alderon |
+| <img src="screenshots/icons/server.svg" width="20" /> | **Servers** Server owners can post their servers on Fern |
+| <img src="screenshots/icons/admin.svg" width="20" /> | **Fern Admin** Fern assists server owners with a variety of things **New in 1.2** |
+| <img src="screenshots/icons/palette.svg" width="20" /> | **Themes** Fern comes with 5 themes |
+| <img src="screenshots/icons/keyboard.svg" width="20" /> | **Hotkeys** |
 
 <br />
 
-<p align="center">
-  <img src="screenshots/home.png" alt="Fern home page" />
-</p>
+## A little bit of backstory
+
+So you see Fern has a variety of features. So how come you're only hearing about it now?
+
+Fern is, well, recent. I made it for myself and it used to be a simple app. But one day I decided I wanted to expand it, and so I did. Fern is now for everyone to use
 
 <br />
 
 ## Quest run
 
-Quests in Path of Titans usually want a handful of things from all over the map. Tell Fern what you need, click roughly where you are, and it works out the **shortest way** to get everything, not just the nearest spot each time. Hit **Got it** when you grab something and it sends you to the next one.
+Fern calculates quest runs. Pretty self explanatory, but it plans routes for the player. If you're like me and don't know any resource spots, this feature might be of use to you
 
 <p align="center">
-  <img src="screenshots/quest-run.png" alt="Quest run planning a route on Gondwa" />
+  <img src="screenshots/quest-run.jpg" alt="Quest run on Gondwa" />
 </p>
 
-> [!TIP]
-> Turn the map overlay on while you're doing a quest run. It zooms in on your route so you can follow it without tabbing out.
+<br />
+
+## Map
+
+<p align="center">
+  <img src="screenshots/map.jpg" alt="Gondwa map" />
+</p>
+
+<br />
+
+## Overlay
+
+Overlays only work in windowed or borderless mode
+
+## Home
+
+<p align="center">
+  <img src="screenshots/home.jpg" alt="Fern home page" />
+</p>
+
+<br />
+
+## Themes
+
+Fern comes with 5 themes, because why wouldn't it
+
+<p align="center">
+  <img src="screenshots/themes.png" alt="Fern themes" />
+</p>
 
 <br />
 
 ## For server owners
 
-Running a community server? Fern lets you put **your server on your players' map**.
+Fern assists server owners with a variety of things. To access Fern Admin, head over to Settings
+
+> [!NOTE]
+> Not for non server owners
 
 <p align="center">
-  <img src="screenshots/server-editor.png" alt="Drawing zones for a server page in Fern" />
+  <img src="screenshots/server-tools.png" alt="Fern Admin" />
 </p>
 
-1. **Make a page in Fern.** Draw safe zones, danger zones, nesting grounds and territories, place markers, plan events and post announcements.
-2. **Publish it.** Sign in with GitHub once and Fern gives you a link. It costs nothing and only you can change it.
-3. **Post the link in your Discord.** Players click it and your server shows up in their Fern, with your zones on their map and overlay. When you publish changes, they get them within a few minutes.
+* **Server files** Fern can write your server files for you, or you can import your current ones and go straight to management
+* **Go live** and **Learn** for those who have never hosted before
+* **Console** for RCON
+* **Player commands** like `!heal` or `!discord`
+* **Storage** for server storage
+* **Fern Bot** keeps it all running 24/7 and connects to Discord
+* **Insights** for heatmaps, stats and where fights happen
+* **Map & zones** to draw zones your players see on their map
+* **Backups**
 
-You can also submit your server to the **Fern server list** so new players can find it in the app.
+<p align="center">
+  <img src="screenshots/admin-commands.jpg" width="49%" alt="Player commands" />
+  <img src="screenshots/admin-zones.jpg" width="49%" alt="Map and zones" />
+</p>
 
 <br />
 
 ## Download
 
-Go to [**Releases**](../../releases/latest) and pick one:
-
-| | |
-|---|---|
-| **Setup** | Installs it with a Start menu shortcut and an uninstaller. Use this one if you're not sure. |
-| **Portable** | One file, no install. Put it anywhere and run it. |
-
-Works on **Windows 10 and 11** (64 bit).
+Grab it from [**Releases**](../../releases/latest). **Setup** installs it, **Portable** is a single file. Works on Windows 10 and 11
 
 > [!WARNING]
-> The first time you run it, Windows might show a blue **"Windows protected your PC"** screen. That happens to any app without a paid certificate, it doesn't mean anything is wrong. Click **More info**, then **Run anyway**.
+> Windows might show a blue "Windows protected your PC" screen the first time. It does that for any app without a paid certificate. Click **More info**, then **Run anyway**
 
 <br />
 
@@ -92,54 +125,34 @@ Works on **Windows 10 and 11** (64 bit).
 | | |
 |---|---|
 | Show or hide Fern | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> |
-| Map overlay on or off | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> |
-| Move and zoom the overlay | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> |
-
-You can change all of them in **Settings**.
-
-> [!IMPORTANT]
-> The overlay needs the game in **windowed** or **borderless** mode. Fullscreen draws over everything.
+| Overlay on or off | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> |
+| Move the overlay | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> |
 
 <br />
 
 ## Is this a cheat?
 
-> [!NOTE]
-> **No.** Fern runs on its own next to the game, like a browser would. It doesn't read, inject into or change Path of Titans in any way. Everything it shows is information that's already public.
+No. Fern doesn't read or touch the game, it's basically a map on your second monitor
 
 <br />
 
-## Building it yourself
+## Building
 
-<details>
-<summary>Show steps</summary>
-<br />
-
-You need [**Node.js**](https://nodejs.org) and [**Rust**](https://rustup.rs).
+You need [Node.js](https://nodejs.org) and [Rust](https://rustup.rs)
 
 ```
 npm install
 npx tauri build
 ```
 
-The installer ends up in `src-tauri/target/release/bundle/nsis`.
-
-</details>
-
 <br />
 
 ## Credits
 
-* Map data and imagery by [**Vulnona**](https://vulnona.com/game/map/)
-* **Path of Titans** and its logo and artwork belong to **Alderon Games**
-
-> [!CAUTION]
-> Fern is a fan project and isn't affiliated with or endorsed by Alderon Games. The code is MIT licensed. That doesn't include the map data or any Alderon artwork, those still belong to their owners.
+Map data by [**Vulnona**](https://vulnona.com/game/map/). Path of Titans belongs to **Alderon Games**. Fern is a fan project and isn't affiliated with them
 
 <br />
 
 ## Contact
 
-Found a bug or have an idea? Post it in [**Discussions**](../../discussions), or add me on Discord: **adibado0**.
-
-There's no Fern Discord server yet since it's still small. If it grows, one will open up.
+Discord: **adibado0**, or post in [Discussions](../../discussions)
